@@ -1,4 +1,4 @@
-I like building software that does something interesting or solves a problem.  
+I like building software that does something interesting.
 Most of my projects involve automation, computer vision, or algorithms.
 
 ## Projects
